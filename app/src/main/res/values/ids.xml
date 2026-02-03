@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="txtTitle" type="id">Title</item>
+    <item name="txtAuthor" type="id">Author</item>
+    <item name="txtRating" type="id">Rating</item>
+    <item name="txtComment" type="id">Comment</item>
+    <item name="btnAdd" type="id">Add</item>
+    <item name="btnView" type="id">btnview</item>
+    <item name="btnExit" type="id">btnexit</item>
+</resources>
